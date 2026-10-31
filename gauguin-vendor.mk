@@ -341,34 +341,21 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.vpp@1.2 \
     vendor.qti.hardware.vpp@1.3 \
     btaudio_offload_if \
-    audio.primary.lito \
-    vendor.qti.hardware.audiohalext@1.0-impl \
     vendor.qti.hardware.bluetooth_audio@2.0-impl \
-    liba2dpoffload \
     libacdb-fts \
     libacdbloader \
     libacdbrtac \
     libadiertac \
     libadm \
     libaudcal \
-    libaudio_log_utils \
-    libaudioconfigstore \
-    libaudioparsers \
-    libaudioroute_ext \
-    libbatterylistener \
     libbluetooth_audio_session_qti \
     libcapiv2svacnn \
     libcapiv2svarnn \
     libcapiv2vop \
-    libcomprcapture \
-    libexthwplugin \
     libgcs-calwrapper \
     libgcs-ipc \
     libgcs-osal \
     libgcs \
-    libhdmiedid \
-    libhdmipassthru \
-    libhfp \
     liblistensoundmodel2 \
     libmmosal_vendor \
     libmulawdec \
@@ -379,15 +366,9 @@ PRODUCT_PACKAGES += \
     libqcodec2_utils \
     libqcodec2_v4l2codec \
     libqtigef \
-    libresampler \
-    libsndmonitor \
-    libspkrprot \
-    libssrec \
     libasphere \
     libmisoundfx \
     libshoebox \
-    vendor.qti.hardware.audiohalext@1.0 \
-    libxlog \
     android.hardware.secure_element@1.0-impl \
     com.qti.eeprom.gauguin_hi259_sunny_gt24p64e \
     com.qti.eeprom.gauguin_imx682_sunny_gt24p64e \
