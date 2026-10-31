@@ -367,7 +367,6 @@ PRODUCT_PACKAGES += \
     libqcodec2_v4l2codec \
     libqtigef \
     libasphere \
-    libmisoundfx \
     libshoebox \
     android.hardware.secure_element@1.0-impl \
     com.qti.eeprom.gauguin_hi259_sunny_gt24p64e \
