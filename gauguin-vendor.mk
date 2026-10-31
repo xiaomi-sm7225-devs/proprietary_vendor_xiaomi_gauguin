@@ -635,7 +635,6 @@ PRODUCT_PACKAGES += \
     libnetmgr_nr_fusion \
     libnetmgr_rmnet_ext \
     libnlnetmgr \
-    libnotifyaudiohal \
     libnpu \
     liboemcrypto \
     libofflinelog \
@@ -711,7 +710,6 @@ PRODUCT_PACKAGES += \
     libtime_genoff \
     libtinyxml2_1 \
     libtrustedapploader \
-    libultrasound \
     libvideofilter_only \
     libvidhance \
     libwa_dof \
